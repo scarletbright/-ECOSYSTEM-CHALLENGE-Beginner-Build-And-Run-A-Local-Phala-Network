@@ -8,7 +8,7 @@
 ![picture](phala-wallet.png)
 
 3. Send the screenshot and share your feeling on Twitter:
-<a href="https://twitter.com/whisperit3/status/1317518867967676416?s=20" target="_blank">Click to see the tweet</a>.
+[link](https://twitter.com/whisperit3/status/1317518867967676416?s=20){:target="_blank"}
 
 
 
